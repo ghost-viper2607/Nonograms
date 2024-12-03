@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lives_3">Lives: 3</string>
+    <string name="nh_d_u">Đánh dấu Ô</string>
+    <string name="nh_d_u_x">Đánh dấu X</string>
+</resources>
